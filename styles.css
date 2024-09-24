@@ -150,13 +150,11 @@ nav .right a span {
   font-size: 18px;
 }
 
-
 /* SECTION 4: Contact */
 .contact-section {
   padding: 0 50px;
   margin-bottom: 100px;
 }
-
 
 @media (max-width: 850px) {
    /* SECTION 1: Hero */

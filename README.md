@@ -11,7 +11,7 @@ Link to portfolio: https://bepostle.github.io/
 
 ## Lessons Learned:
 
-* Great refresher on technical skills, like pushing to a Github respository from the terminal, and setting up my IDE
+* Great refresher on technical skills, like pushing to a Github respository from the terminal, and optimizing my IDE with new add-ons like browser-refresh
 * It's quite enjoyable to see an HTML and CSS webpage (or any tool) come to life as you're building it
 
 ## Contact
