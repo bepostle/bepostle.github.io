@@ -1,14 +1,20 @@
-# Brent Postlethweight - Portfolio
+# My Portfolio
 
-I'm a Marketing Operations and Business Intelligence professional with 10+ years of experience implementing and optimizing CRM systems for marketing and sales teams.
+As an operations professional with technical skills in business intelligence and analytics, I wanted to host my portfolio on GitHub to showcase my work product.
+
+Link to portfolio: https://bepostle.github.io/
 
 ## Technologies Used:
 
 * HTML
 * CSS
-* [Optional: Javascript Frameworks]
 
-## Links
+## Lessons Learned:
+
+* Great refresher on technical skills, like pushing to a Github respository from the terminal, and setting up my IDE
+* It's quite enjoyable to see an HTML and CSS webpage (or any tool) come to life as you're building it
+
+## Contact
 
 * LinkedIn: https://www.linkedin.com/in/brentpostlethweight/
 * Email: brentpostle@gmail.com
