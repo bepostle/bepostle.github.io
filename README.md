@@ -14,8 +14,8 @@ Note: there are a few pieces that are still under construction as of September 2
 
 ## Lessons Learned:
 
-* It's inspired me to continue to produce high-quality work product now that I have a central place to showcase it
 * Great refresher on technical skills like writing basic HTML and CSS, pushing to a Github respository from the terminal, and optimizing my IDE with add-ons like browser-refresh
+* It's inspired me to find more ways to visually showcase my work
 
 ## Contact
 
